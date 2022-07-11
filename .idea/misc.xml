@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asdfg/AndroidStudioProjects/shoppi-android/app/src/main/res/drawable/background_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/shoppi-android/app/src/main/res/drawable/ic_gnb_back.xml" value="0.1385" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/shoppi-android/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/asdfg/AndroidStudioProjects/shoppi-android/app/src/main/res/layout/activity_product_detail.xml" value="0.33" />
